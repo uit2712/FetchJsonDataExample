@@ -32,7 +32,7 @@ export default class App extends Component<Props> {
             // set state value
             this.setState({
               isLoading: false, // already loading
-              dataSource: data.info
+              dataSource: responseJson.info
             });
           })
           .catch((error) => {
