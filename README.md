@@ -18,8 +18,8 @@ Link youtube video:
 - THÊM: Chuyển dữ liệu SQLite sang dữ liệu Json
 
 
-------------------JSON DATA------------------
-	FetchJsonDataExample.json
+------------------JSON DATA------------------<br/>
+FetchJsonDataExample.json<br/><br/>
 {
 	"info" : [
 		{"name" : "Quang Vi", "sex" : "male", "age" : 23, "hobby" : "sleeping"},
