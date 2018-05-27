@@ -1,6 +1,8 @@
-# FetchJsonDataExample
+# Fetch Json data example in React Native
 
-#Link youtube video: 
+Link youtube video: 
+
+********STEPS********
 
 ----------------ENGLISH VERSION----------------
 - STEP 1: Creating local json file or online json on gist.github.com
