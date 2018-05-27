@@ -20,10 +20,12 @@ Link youtube video:
 
 ------------------JSON DATA------------------<br/>
 FetchJsonDataExample.json<br/><br/>
-{<br/>
-	"info" : [<br/>
-		{"name" : "Quang Vi", "sex" : "male", "age" : 23, "hobby" : "sleeping"},<br/>
-		{"name" : "Saitama", "sex" : "male", "age" : 25, "hobby" : "reading comic"},<br/>
-		{"name" : "Songoku", "sex" : "male", "age" : 999, "hobby" : "eating"}<br/>
-	]<br/>
+<pre>
+{
+	"info" :
+		{"name" : "Quang Vi", "sex" : "male", "age" : 23, "hobby" : "sleeping"},
+		{"name" : "Saitama", "sex" : "male", "age" : 25, "hobby" : "reading comic"},
+		{"name" : "Songoku", "sex" : "male", "age" : 999, "hobby" : "eating"}
+	]
 }
+</pre>
