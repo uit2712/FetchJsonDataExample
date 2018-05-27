@@ -1,0 +1,3 @@
+rootProject.name = 'FetchJSONData'
+
+include ':app'
